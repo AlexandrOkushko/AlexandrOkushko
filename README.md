@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **[RedDuck Software](https://github.com/RedDuck-Software)**
 - 🌱 I’m currently learning **C#**
-- 💬 Ask me about **anything**
+- 💬 Ask me about **Anything**
 - 📫 How to reach me: **[Email](mailto:sevenr23@gmail.com)**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love to draw on graphic tablet and play ukelele / harmonica**
